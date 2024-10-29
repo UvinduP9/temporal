@@ -5,3 +5,6 @@
 
 
 npx @temporalio/create@latest --sample hello-world 
+
+## Always remember to run the following command to start the Temporal Server:
+temporal server start-dev
